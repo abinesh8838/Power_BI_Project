@@ -40,6 +40,14 @@ The dataset contains Nike shoe-level sales information, including:
  
  File Type: CSV (imported into Power BI)
 
+## Dashboard Preview
+  * Profit Report
+    
+  ![Profit Dashboard](https://github.com/abinesh8838/Power_BI_Project/blob/main/Profit%20Report.png)
+  * Revenue Report
+    
+  ![Revenue Dashboard](https://github.com/abinesh8838/Power_BI_Project/blob/main/Revenue%20Report.png)
+
 ## Tools & Technologies
 
 * Power BI Desktop
